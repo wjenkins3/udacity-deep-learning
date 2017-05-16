@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/wjenkins3/udacity-deep-learning/master/dlnd_certificate.png" width="800" height="600">
+
 This repository contains project work for the Udacity Deep Learning Nanodegree Foundations program.
 
 ### Projects
